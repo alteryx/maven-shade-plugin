@@ -44,9 +44,9 @@
   </prerequisites>
 
   <scm>
-    <connection>scm:git:git://github.com/markhamstra/maven-shade-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:markhamstra/maven-shade-plugin.git</developerConnection>
-    <url>http://github.com/markhamstra/maven-shade-plugin</url>
+    <connection>scm:git:git://github.com/clearstorydata/maven-shade-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:clearstorydata/maven-shade-plugin.git</developerConnection>
+    <url>http://github.com/clearstorydata/maven-shade-plugin/tree/3.0-csd</url>
     <tag>HEAD</tag>
   </scm>
 
